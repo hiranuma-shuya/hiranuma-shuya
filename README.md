@@ -16,13 +16,3 @@
     <img height="20" src="https://badgen.org/img/zenn/sora33/articles?style=plastic" />
   </a> -->
 </p>
-
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sora33&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sora33&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sora33&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sora33&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sora33&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=sora33&theme=gruvbox)
