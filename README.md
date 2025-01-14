@@ -1,7 +1,7 @@
 
 <p align="left">
-  <a href="https://github.com/sora33">
-    <img height="20" src="https://komarev.com/ghpvc/?username=hiranuma-shuya" />
+  <a href="https://github.com/hiranuma-shuya">
+    <img height="20" src="https://komarev.com/ghpvc/?username=sora33" />
   </a>
 <!--   <a href="https://github.com/sora33">
     <img height="20" src="https://img.shields.io/github/followers/sora33?label=follow&logo=github&style=flat" />
