@@ -1,18 +1,78 @@
+# 平沼 柊哉 (Shuya Hiranuma)
 
-<p align="left">
-  <a href="https://github.com/hiranuma-shuya">
-    <img height="20" src="https://komarev.com/ghpvc/?username=sora33" />
-  </a>
-<!--   <a href="https://github.com/sora33">
-    <img height="20" src="https://img.shields.io/github/followers/sora33?label=follow&logo=github&style=flat" />
-  </a> -->
-  <a href="http://qiita.com/hiiragiya">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hiiragiya/posts.svg" />
-  </a>
-  <a href="http://qiita.com/hiiragiya">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/hiiragiya/contributions.svg" />
-  </a>
-<!--   <a href="https://zenn.dev/sora33">
-    <img height="20" src="https://badgen.org/img/zenn/sora33/articles?style=plastic" />
-  </a> -->
-</p>
+**フルスタックエンジニア / 建築 × IT**
+
+「ものづくりで身近な人を幸せに」をモットーに、技術で課題を解決することを楽しんでいます。
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Backend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Hono](https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Infrastructure**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| プロジェクト | 概要 |
+|------------|------|
+| [**Tablia**](https://www.tablia.app/) | 個人飲食店向けの予約管理サービス |
+| [**酒学道場**](https://www.sakegaku-dojo.com/) | 酒ディプロマ試験対策サービス |
+| [**Pitat-AR**](https://www.pitat-ar.com/) | 3DモデルのAR共有サービス |
+| [**エンジニアDB**](https://www.engineer-db.com/) | エンジニア情報プラットフォーム |
+
+---
+
+## 📜 Certifications
+
+- 🏛 二級建築士
+- 💻 応用情報技術者
+- ☁️ AWS SAA / SOA
+- 🤖 JDLA G検定
+- 💰 2級FP技能士
+- 🍷 J.S.A. ワインエキスパート
+- 🍶 J.S.A. SAKEDIPLOMA
+
+---
+
+## 💼 Career
+
+| 期間 | 所属 | 役割 |
+|-----|------|------|
+| 2025.11~ | フリーランス | フルスタックエンジニア |
+| 2025.1-10 | 株式会社Arent | PM / 建設DX |
+| 2023.1-2024.12 | 株式会社企ての樹 | フルスタックエンジニア / WEB受託開発 |
+| 2020.4-2022.12 | 積水ハウス株式会社 | IT企画 / PM |
+
+---
+
+## 🎸 Interests
+
+ドラム・ギター / ワイン（ブラインドテイスティング研鑽中🍷） / 温泉・サウナ / 旅行
+
+---
+
+## 📫 Contact
+
+お仕事のご相談はお気軽にどうぞ！
+
+<!--
+- HP: https://www.hiranuma-shuya.com/
+- X: https://x.com/hiranuma_shuya
+- Email: shuuuya0616@gmail.com
+-->
