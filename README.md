@@ -14,8 +14,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Backend**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Hono](https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -67,12 +66,13 @@
 
 ---
 
-
 ## 📫 Contact
 
 お仕事のご相談はお気軽にどうぞ！
 
-[![HP](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.hiranuma-shuya.com/)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hiranuma_shuya)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E6%9F%8A%E5%93%89-%E5%B9%B3%E6%B2%BC-792180350/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuuuya0616@gmail.com)
+| | |
+|---|---|
+| 🌐 | [hiranuma-shuya.com](https://www.hiranuma-shuya.com/) |
+| 𝕏 | [@hiranuma_shuya](https://x.com/hiranuma_shuya) |
+| 💼 | [LinkedIn](https://www.linkedin.com/in/%E6%9F%8A%E5%93%89-%E5%B9%B3%E6%B2%BC-792180350/) |
+| ✉️ | [shuuuya0616@gmail.com](mailto:shuuuya0616@gmail.com) |
