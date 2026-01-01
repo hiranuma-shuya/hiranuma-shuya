@@ -74,7 +74,7 @@
 
 | | |
 |---|---|
-| 🌐 | [hiranuma-shuya.com](https://www.hiranuma-shuya.com/) |
+| HP | [hiranuma-shuya.com](https://www.hiranuma-shuya.com/) |
 | 𝕏 | [@hiranuma_shuya](https://x.com/hiranuma_shuya) |
-| 💼 | [LinkedIn](https://www.linkedin.com/in/%E6%9F%8A%E5%93%89-%E5%B9%B3%E6%B2%BC-792180350/) |
-| ✉️ | [shuuuya0616@gmail.com](mailto:shuuuya0616@gmail.com) |
+| WORK | [LinkedIn](https://www.linkedin.com/in/%E6%9F%8A%E5%93%89-%E5%B9%B3%E6%B2%BC-792180350/) |
+| ✉️ | [shuuuya0616@gmail.com](mailto:shuuuya0616@gmail.com?subject=%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%AE%E3%81%94%E7%9B%B8%E8%AB%87&body=%E5%B9%B3%E6%B2%BC%E6%A7%98%0A%0A%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%80%90%E3%81%8A%E5%90%8D%E5%89%8D%E3%80%91%0A%0A%E3%80%90%E4%BC%9A%E7%A4%BE%E5%90%8D%E3%80%91%0A%0A%E3%80%90%E3%81%94%E7%9B%B8%E8%AB%87%E5%86%85%E5%AE%B9%E3%80%91%0A%0A%E3%80%90%E3%81%94%E4%BA%88%E7%AE%97%E3%80%91%0A%0A%E3%80%90%E5%B8%8C%E6%9C%9B%E7%B4%8D%E6%9C%9F%E3%80%91%0A%0A) |
